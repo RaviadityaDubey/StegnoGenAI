@@ -15,7 +15,7 @@ StegoGenAI is a project that combines LSB (Least Significant Bit) steganography 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RaviadityaDubey/SteganooGen.git
+   git clone https://github.com/RaviadityaDubey/StegnoGenAI.git
    ```
 2. Install dependencies:
    ```bash
