@@ -35,4 +35,4 @@ The CNN model can be trained on new datasets using `cnn_model.py`. Ensure that t
 3. **Detect Stego**: Upload an image to classify it as a Cover or Stego.
 
 ## License
-MIT License
+Apache-2.0 License
